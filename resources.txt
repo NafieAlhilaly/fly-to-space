@@ -1,0 +1,11 @@
+Bootstrap :
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+Images :
+https://www.pexels.com
+
+Glassmorphsm maker : 
+https://hype4.academy/tools/glassmorphism-generator
+
+Spaces names and discreptions generator :
+https://www.fantasynamegenerators.com/planet_names.php
